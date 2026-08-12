@@ -1,12 +1,12 @@
 {
-  "version": "0.3.184",
+  "version": "0.3.185",
   "description": "Scratch content management CLI",
   "homepage": "https://github.com/whalesync/scratch-cli",
   "license": "Proprietary",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/whalesync/scratch-cli/releases/download/v0.3.184/scratchmd_windows_amd64.zip",
-      "hash": "28735e7139956df313deda718027742bce53a60931ebb568c5092dd4c4699221",
+      "url": "https://github.com/whalesync/scratch-cli/releases/download/v0.3.185/scratchmd_windows_amd64.zip",
+      "hash": "5ab744c08919c0ca1adb7d9190b13108db18b947df6d3bb463e93fd7e2a8ab0e",
       "bin": "scratchmd.exe"
     }
   }
